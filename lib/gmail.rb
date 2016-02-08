@@ -163,7 +163,7 @@ class Gmail
   def imap
     unless logged_in?
       login
-      at_exit { logout } # Set up auto-logout for later.
+      #at_exit { logout } # Set up auto-logout for later.
     end
     @imap
   end

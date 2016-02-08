@@ -4,8 +4,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{ruby-gmail}
-  s.version = "0.3.1"
+  s.name = %q{ruby-gmail-nritholtz}
+  s.version = "0.3.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["BehindLogic"]
@@ -27,16 +27,12 @@ Gem::Specification.new do |s|
      "lib/gmail/mailbox.rb",
      "lib/gmail/message.rb",
      "lib/smtp_tls.rb",
-     "ruby-gmail.gemspec",
+     "ruby-gmail-nritholtz.gemspec",
      "test/test_gmail.rb",
      "test/test_helper.rb"
   ]
   s.homepage = %q{http://dcparker.github.com/ruby-gmail}
-  s.post_install_message = %q{
-[34mIf ruby-gmail saves you TWO hours of work, want to compensate me for, like, a half-hour?
-Support me in making new and better gems:[0m [31;4mhttp://pledgie.com/campaigns/7087[0m
 
-}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
