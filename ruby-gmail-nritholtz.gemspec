@@ -31,7 +31,7 @@ Gem::Specification.new do |s|
      "test/test_gmail.rb",
      "test/test_helper.rb"
   ]
-  s.homepage = %q{http://dcparker.github.com/ruby-gmail}
+  s.homepage = %q{https://github.com/nritholtz/ruby-gmail}
 
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]

@@ -1,13 +1,7 @@
-# Notice
+# ruby-gmail-nritholtz
 
-I have pushed verion 0.3.1 to rubygems.org (Yay, thanks Nick Quaranto for the help) which is a build straight from master.
-
-Second, this gem is getting back on track. See [this issue here](https://github.com/dcparker/ruby-gmail/issues/58) for more information.
-
-# ruby-gmail
-
-* Code: [http://github.com/dcparker/ruby-gmail](http://github.com/dcparker/ruby-gmail)
-* Gem: [http://gemcutter.org/gems/ruby-gmail](http://rubygems.org/gems/ruby-gmail)
+* Code: [http://github.com/dcparker/ruby-gmail](http://github.com/nritholtz/ruby-gmail-nritholtz)
+* Gem: [http://gemcutter.org/gems/ruby-gmail](http://rubygems.org/gems/ruby-gmail-nritholtz)
 
 ## Author(s)
 
@@ -149,7 +143,7 @@ Creating emails now uses the amazing [Mail](http://rubygems.org/gems/mail) rubyg
 
 ## Install
 
-    gem install ruby-gmail
+    gem install ruby-gmail-nritholtz
 
 ## License
 
